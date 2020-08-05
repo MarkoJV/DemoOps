@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ASPNetCoreBackend/.vs/ASPNetCoreBackend
+/ASPNetCoreBackend/ASPNetCoreBackend/bin/Debug/netcoreapp3.1
+/ASPNetCoreBackend/ASPNetCoreBackend/obj
